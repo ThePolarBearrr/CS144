@@ -1,0 +1,22 @@
+Start testing: Nov 28 02:13 PST
+----------------------------------------------------------
+31/169 Testing: t_webget
+31/169 Test: t_webget
+Command: "/home/cs144/sponge/tests/webget_t.sh"
+Directory: /home/cs144/sponge/apps
+"t_webget" start time: Nov 28 02:13 PST
+Output:
+----------------------------------------------------------
+HTTP/1.1 200 OK
+Content-type: text/plain
+
+7SmXqWkrLKzVBCEalbSPqBcvs11Pw263K7x4Wv3JckI
+<end of output>
+Test time =   2.38 sec
+----------------------------------------------------------
+Test Passed.
+"t_webget" end time: Nov 28 02:13 PST
+"t_webget" time elapsed: 00:00:02
+----------------------------------------------------------
+
+End testing: Nov 28 02:13 PST

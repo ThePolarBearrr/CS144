@@ -1,0 +1,515 @@
+Start testing: Dec 01 01:19 PST
+----------------------------------------------------------
+Unable to find executable: /home/cs144/sponge/libsponge/tests/wrapping_integers_cmp
+1/169 Testing: t_wrapping_ints_cmp
+1/169 Test: t_wrapping_ints_cmp
+Command: ""
+Directory: /home/cs144/sponge/libsponge
+"t_wrapping_ints_cmp" start time: 
+Output:
+----------------------------------------------------------
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"t_wrapping_ints_cmp" end time: Dec 01 01:19 PST
+"t_wrapping_ints_cmp" time elapsed: 00:00:00
+----------------------------------------------------------
+
+Unable to find executable: /home/cs144/sponge/libsponge/tests/wrapping_integers_unwrap
+2/169 Testing: t_wrapping_ints_unwrap
+2/169 Test: t_wrapping_ints_unwrap
+Command: ""
+Directory: /home/cs144/sponge/libsponge
+"t_wrapping_ints_unwrap" start time: 
+Output:
+----------------------------------------------------------
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"t_wrapping_ints_unwrap" end time: Dec 01 01:19 PST
+"t_wrapping_ints_unwrap" time elapsed: 00:00:00
+----------------------------------------------------------
+
+Unable to find executable: /home/cs144/sponge/libsponge/tests/wrapping_integers_wrap
+3/169 Testing: t_wrapping_ints_wrap
+3/169 Test: t_wrapping_ints_wrap
+Command: ""
+Directory: /home/cs144/sponge/libsponge
+"t_wrapping_ints_wrap" start time: 
+Output:
+----------------------------------------------------------
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"t_wrapping_ints_wrap" end time: Dec 01 01:19 PST
+"t_wrapping_ints_wrap" time elapsed: 00:00:00
+----------------------------------------------------------
+
+Unable to find executable: /home/cs144/sponge/libsponge/tests/wrapping_integers_roundtrip
+4/169 Testing: t_wrapping_ints_roundtrip
+4/169 Test: t_wrapping_ints_roundtrip
+Command: ""
+Directory: /home/cs144/sponge/libsponge
+"t_wrapping_ints_roundtrip" start time: 
+Output:
+----------------------------------------------------------
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"t_wrapping_ints_roundtrip" end time: Dec 01 01:19 PST
+"t_wrapping_ints_roundtrip" time elapsed: 00:00:00
+----------------------------------------------------------
+
+Unable to find executable: /home/cs144/sponge/libsponge/tests/recv_connect
+5/169 Testing: t_recv_connect
+5/169 Test: t_recv_connect
+Command: ""
+Directory: /home/cs144/sponge/libsponge
+"t_recv_connect" start time: 
+Output:
+----------------------------------------------------------
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"t_recv_connect" end time: Dec 01 01:19 PST
+"t_recv_connect" time elapsed: 00:00:00
+----------------------------------------------------------
+
+Unable to find executable: /home/cs144/sponge/libsponge/tests/recv_transmit
+6/169 Testing: t_recv_transmit
+6/169 Test: t_recv_transmit
+Command: ""
+Directory: /home/cs144/sponge/libsponge
+"t_recv_transmit" start time: 
+Output:
+----------------------------------------------------------
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"t_recv_transmit" end time: Dec 01 01:19 PST
+"t_recv_transmit" time elapsed: 00:00:00
+----------------------------------------------------------
+
+Unable to find executable: /home/cs144/sponge/libsponge/tests/recv_window
+7/169 Testing: t_recv_window
+7/169 Test: t_recv_window
+Command: ""
+Directory: /home/cs144/sponge/libsponge
+"t_recv_window" start time: 
+Output:
+----------------------------------------------------------
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"t_recv_window" end time: Dec 01 01:19 PST
+"t_recv_window" time elapsed: 00:00:00
+----------------------------------------------------------
+
+Unable to find executable: /home/cs144/sponge/libsponge/tests/recv_reorder
+8/169 Testing: t_recv_reorder
+8/169 Test: t_recv_reorder
+Command: ""
+Directory: /home/cs144/sponge/libsponge
+"t_recv_reorder" start time: 
+Output:
+----------------------------------------------------------
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"t_recv_reorder" end time: Dec 01 01:19 PST
+"t_recv_reorder" time elapsed: 00:00:00
+----------------------------------------------------------
+
+Unable to find executable: /home/cs144/sponge/libsponge/tests/recv_close
+9/169 Testing: t_recv_close
+9/169 Test: t_recv_close
+Command: ""
+Directory: /home/cs144/sponge/libsponge
+"t_recv_close" start time: 
+Output:
+----------------------------------------------------------
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"t_recv_close" end time: Dec 01 01:19 PST
+"t_recv_close" time elapsed: 00:00:00
+----------------------------------------------------------
+
+Unable to find executable: /home/cs144/sponge/libsponge/tests/recv_special
+10/169 Testing: t_recv_special
+10/169 Test: t_recv_special
+Command: ""
+Directory: /home/cs144/sponge/libsponge
+"t_recv_special" start time: 
+Output:
+----------------------------------------------------------
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"t_recv_special" end time: Dec 01 01:19 PST
+"t_recv_special" time elapsed: 00:00:00
+----------------------------------------------------------
+
+Unable to find executable: /home/cs144/sponge/libsponge/tests/send_connect
+11/169 Testing: t_send_connect
+11/169 Test: t_send_connect
+Command: ""
+Directory: /home/cs144/sponge/libsponge
+"t_send_connect" start time: 
+Output:
+----------------------------------------------------------
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"t_send_connect" end time: Dec 01 01:19 PST
+"t_send_connect" time elapsed: 00:00:00
+----------------------------------------------------------
+
+Unable to find executable: /home/cs144/sponge/libsponge/tests/send_transmit
+12/169 Testing: t_send_transmit
+12/169 Test: t_send_transmit
+Command: ""
+Directory: /home/cs144/sponge/libsponge
+"t_send_transmit" start time: 
+Output:
+----------------------------------------------------------
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"t_send_transmit" end time: Dec 01 01:19 PST
+"t_send_transmit" time elapsed: 00:00:00
+----------------------------------------------------------
+
+Unable to find executable: /home/cs144/sponge/libsponge/tests/send_retx
+13/169 Testing: t_send_retx
+13/169 Test: t_send_retx
+Command: ""
+Directory: /home/cs144/sponge/libsponge
+"t_send_retx" start time: 
+Output:
+----------------------------------------------------------
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"t_send_retx" end time: Dec 01 01:19 PST
+"t_send_retx" time elapsed: 00:00:00
+----------------------------------------------------------
+
+Unable to find executable: /home/cs144/sponge/libsponge/tests/send_window
+14/169 Testing: t_send_window
+14/169 Test: t_send_window
+Command: ""
+Directory: /home/cs144/sponge/libsponge
+"t_send_window" start time: 
+Output:
+----------------------------------------------------------
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"t_send_window" end time: Dec 01 01:19 PST
+"t_send_window" time elapsed: 00:00:00
+----------------------------------------------------------
+
+Unable to find executable: /home/cs144/sponge/libsponge/tests/send_ack
+15/169 Testing: t_send_ack
+15/169 Test: t_send_ack
+Command: ""
+Directory: /home/cs144/sponge/libsponge
+"t_send_ack" start time: 
+Output:
+----------------------------------------------------------
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"t_send_ack" end time: Dec 01 01:19 PST
+"t_send_ack" time elapsed: 00:00:00
+----------------------------------------------------------
+
+Unable to find executable: /home/cs144/sponge/libsponge/tests/send_close
+16/169 Testing: t_send_close
+16/169 Test: t_send_close
+Command: ""
+Directory: /home/cs144/sponge/libsponge
+"t_send_close" start time: 
+Output:
+----------------------------------------------------------
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"t_send_close" end time: Dec 01 01:19 PST
+"t_send_close" time elapsed: 00:00:00
+----------------------------------------------------------
+
+Unable to find executable: /home/cs144/sponge/libsponge/tests/send_extra
+17/169 Testing: t_send_extra
+17/169 Test: t_send_extra
+Command: ""
+Directory: /home/cs144/sponge/libsponge
+"t_send_extra" start time: 
+Output:
+----------------------------------------------------------
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"t_send_extra" end time: Dec 01 01:19 PST
+"t_send_extra" time elapsed: 00:00:00
+----------------------------------------------------------
+
+18/169 Testing: t_strm_reassem_single
+18/169 Test: t_strm_reassem_single
+Command: "/home/cs144/sponge/libsponge/tests/fsm_stream_reassembler_single"
+Directory: /home/cs144/sponge/libsponge
+"t_strm_reassem_single" start time: Dec 01 01:19 PST
+Output:
+----------------------------------------------------------
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"t_strm_reassem_single" end time: Dec 01 01:19 PST
+"t_strm_reassem_single" time elapsed: 00:00:00
+----------------------------------------------------------
+
+19/169 Testing: t_strm_reassem_seq
+19/169 Test: t_strm_reassem_seq
+Command: "/home/cs144/sponge/libsponge/tests/fsm_stream_reassembler_seq"
+Directory: /home/cs144/sponge/libsponge
+"t_strm_reassem_seq" start time: Dec 01 01:19 PST
+Output:
+----------------------------------------------------------
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"t_strm_reassem_seq" end time: Dec 01 01:19 PST
+"t_strm_reassem_seq" time elapsed: 00:00:00
+----------------------------------------------------------
+
+20/169 Testing: t_strm_reassem_dup
+20/169 Test: t_strm_reassem_dup
+Command: "/home/cs144/sponge/libsponge/tests/fsm_stream_reassembler_dup"
+Directory: /home/cs144/sponge/libsponge
+"t_strm_reassem_dup" start time: Dec 01 01:19 PST
+Output:
+----------------------------------------------------------
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"t_strm_reassem_dup" end time: Dec 01 01:19 PST
+"t_strm_reassem_dup" time elapsed: 00:00:00
+----------------------------------------------------------
+
+21/169 Testing: t_strm_reassem_holes
+21/169 Test: t_strm_reassem_holes
+Command: "/home/cs144/sponge/libsponge/tests/fsm_stream_reassembler_holes"
+Directory: /home/cs144/sponge/libsponge
+"t_strm_reassem_holes" start time: Dec 01 01:19 PST
+Output:
+----------------------------------------------------------
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"t_strm_reassem_holes" end time: Dec 01 01:19 PST
+"t_strm_reassem_holes" time elapsed: 00:00:00
+----------------------------------------------------------
+
+22/169 Testing: t_strm_reassem_many
+22/169 Test: t_strm_reassem_many
+Command: "/home/cs144/sponge/libsponge/tests/fsm_stream_reassembler_many"
+Directory: /home/cs144/sponge/libsponge
+"t_strm_reassem_many" start time: Dec 01 01:19 PST
+Output:
+----------------------------------------------------------
+<end of output>
+Test time =   0.07 sec
+----------------------------------------------------------
+Test Passed.
+"t_strm_reassem_many" end time: Dec 01 01:19 PST
+"t_strm_reassem_many" time elapsed: 00:00:00
+----------------------------------------------------------
+
+23/169 Testing: t_strm_reassem_overlapping
+23/169 Test: t_strm_reassem_overlapping
+Command: "/home/cs144/sponge/libsponge/tests/fsm_stream_reassembler_overlapping"
+Directory: /home/cs144/sponge/libsponge
+"t_strm_reassem_overlapping" start time: Dec 01 01:19 PST
+Output:
+----------------------------------------------------------
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"t_strm_reassem_overlapping" end time: Dec 01 01:19 PST
+"t_strm_reassem_overlapping" time elapsed: 00:00:00
+----------------------------------------------------------
+
+24/169 Testing: t_strm_reassem_win
+24/169 Test: t_strm_reassem_win
+Command: "/home/cs144/sponge/libsponge/tests/fsm_stream_reassembler_win"
+Directory: /home/cs144/sponge/libsponge
+"t_strm_reassem_win" start time: Dec 01 01:19 PST
+Output:
+----------------------------------------------------------
+<end of output>
+Test time =   0.06 sec
+----------------------------------------------------------
+Test Passed.
+"t_strm_reassem_win" end time: Dec 01 01:19 PST
+"t_strm_reassem_win" time elapsed: 00:00:00
+----------------------------------------------------------
+
+25/169 Testing: t_strm_reassem_cap
+25/169 Test: t_strm_reassem_cap
+Command: "/home/cs144/sponge/libsponge/tests/fsm_stream_reassembler_cap"
+Directory: /home/cs144/sponge/libsponge
+"t_strm_reassem_cap" start time: Dec 01 01:19 PST
+Output:
+----------------------------------------------------------
+<end of output>
+Test time =   0.11 sec
+----------------------------------------------------------
+Test Passed.
+"t_strm_reassem_cap" end time: Dec 01 01:19 PST
+"t_strm_reassem_cap" time elapsed: 00:00:00
+----------------------------------------------------------
+
+26/169 Testing: t_byte_stream_construction
+26/169 Test: t_byte_stream_construction
+Command: "/home/cs144/sponge/libsponge/tests/byte_stream_construction"
+Directory: /home/cs144/sponge/libsponge
+"t_byte_stream_construction" start time: Dec 01 01:19 PST
+Output:
+----------------------------------------------------------
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"t_byte_stream_construction" end time: Dec 01 01:19 PST
+"t_byte_stream_construction" time elapsed: 00:00:00
+----------------------------------------------------------
+
+27/169 Testing: t_byte_stream_one_write
+27/169 Test: t_byte_stream_one_write
+Command: "/home/cs144/sponge/libsponge/tests/byte_stream_one_write"
+Directory: /home/cs144/sponge/libsponge
+"t_byte_stream_one_write" start time: Dec 01 01:19 PST
+Output:
+----------------------------------------------------------
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"t_byte_stream_one_write" end time: Dec 01 01:19 PST
+"t_byte_stream_one_write" time elapsed: 00:00:00
+----------------------------------------------------------
+
+28/169 Testing: t_byte_stream_two_writes
+28/169 Test: t_byte_stream_two_writes
+Command: "/home/cs144/sponge/libsponge/tests/byte_stream_two_writes"
+Directory: /home/cs144/sponge/libsponge
+"t_byte_stream_two_writes" start time: Dec 01 01:19 PST
+Output:
+----------------------------------------------------------
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"t_byte_stream_two_writes" end time: Dec 01 01:19 PST
+"t_byte_stream_two_writes" time elapsed: 00:00:00
+----------------------------------------------------------
+
+29/169 Testing: t_byte_stream_capacity
+29/169 Test: t_byte_stream_capacity
+Command: "/home/cs144/sponge/libsponge/tests/byte_stream_capacity"
+Directory: /home/cs144/sponge/libsponge
+"t_byte_stream_capacity" start time: Dec 01 01:19 PST
+Output:
+----------------------------------------------------------
+<end of output>
+Test time =   0.41 sec
+----------------------------------------------------------
+Test Passed.
+"t_byte_stream_capacity" end time: Dec 01 01:19 PST
+"t_byte_stream_capacity" time elapsed: 00:00:00
+----------------------------------------------------------
+
+30/169 Testing: t_byte_stream_many_writes
+30/169 Test: t_byte_stream_many_writes
+Command: "/home/cs144/sponge/libsponge/tests/byte_stream_many_writes"
+Directory: /home/cs144/sponge/libsponge
+"t_byte_stream_many_writes" start time: Dec 01 01:19 PST
+Output:
+----------------------------------------------------------
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"t_byte_stream_many_writes" end time: Dec 01 01:19 PST
+"t_byte_stream_many_writes" time elapsed: 00:00:00
+----------------------------------------------------------
+
+53/169 Testing: t_address_dt
+53/169 Test: t_address_dt
+Command: "/home/cs144/sponge/libsponge/doctests/address_dt"
+Directory: /home/cs144/sponge/libsponge
+"t_address_dt" start time: Dec 01 01:19 PST
+Output:
+----------------------------------------------------------
+<end of output>
+Test time =   0.04 sec
+----------------------------------------------------------
+Test Passed.
+"t_address_dt" end time: Dec 01 01:19 PST
+"t_address_dt" time elapsed: 00:00:00
+----------------------------------------------------------
+
+54/169 Testing: t_parser_dt
+54/169 Test: t_parser_dt
+Command: "/home/cs144/sponge/libsponge/doctests/parser_dt"
+Directory: /home/cs144/sponge/libsponge
+"t_parser_dt" start time: Dec 01 01:19 PST
+Output:
+----------------------------------------------------------
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"t_parser_dt" end time: Dec 01 01:19 PST
+"t_parser_dt" time elapsed: 00:00:00
+----------------------------------------------------------
+
+55/169 Testing: t_socket_dt
+55/169 Test: t_socket_dt
+Command: "/home/cs144/sponge/libsponge/doctests/socket_dt"
+Directory: /home/cs144/sponge/libsponge
+"t_socket_dt" start time: Dec 01 01:19 PST
+Output:
+----------------------------------------------------------
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"t_socket_dt" end time: Dec 01 01:19 PST
+"t_socket_dt" time elapsed: 00:00:00
+----------------------------------------------------------
+
+End testing: Dec 01 01:19 PST
